@@ -1,0 +1,3 @@
+﻿  sentenceConstructor.cpp
+C:\Users\surin\source\repos\sentenceConstructor\sentenceConstructor\sentenceConstructor.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sentenceConstructor.vcxproj -> C:\Users\surin\source\repos\sentenceConstructor\x64\Debug\sentenceConstructor.exe
